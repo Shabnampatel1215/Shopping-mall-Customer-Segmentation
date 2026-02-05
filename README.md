@@ -1,1 +1,1 @@
-# Customre_Spending_Score
+# Customer_Spending_Score
